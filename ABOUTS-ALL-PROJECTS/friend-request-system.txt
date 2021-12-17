@@ -1,0 +1,30 @@
+-To download the Friend Request System In PHP project for free(Scroll Down)
+
+The Friend Request System In PHP is a simple mini project for making friends around the world. The project contains only user sides. A user can register/login in themselves for making friends. They must log in for entering the request system. This project is a simple project that is like the simplest form of facebook. But we cannot chat with the people in this system.
+
+About System
+This Friend Request System is in PHP, javascript, and CSS. Talking about the features of this system, it contains only user sections. From here, the user can log in / sign up to enter the friends making system. You can send request to new peoples, accept or decline the request of others. The design of this project is pretty simple so that the user won’t find any difficulties while working on it. This Friend Request System in PHP helps in making friends with different new peoples.
+
+Note: This system is a very simple system for providing basic concepts on the request managing system.
+
+How To Run The Project?
+To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Friend Request System is in PHP with source code is free to download, Use for educational purposes only!
+
+After Starting Apache and MySQL in XAMPP, follow the following steps.
+
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+
+
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on the databases tab
+6th Step: Create a database naming “frnd_req_system” and then click on the import tab
+7th Step: Click on browse file and select “sql.sql” file which is inside the “SQL” folder
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/friend-request-system/”
+
+For the project demo, you can look at the video below:

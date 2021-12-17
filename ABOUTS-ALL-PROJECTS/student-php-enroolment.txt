@@ -1,0 +1,29 @@
+Please scroll down and click on the download button to download the Student Enrollment In PHP project for free
+
+The Student Enrollment In PHP is a simple mini project for keeping records of students. The project contains the admin and user sides. The admin can manage all the management like adding student’s details, editing the details if required, and view the enrolled student’s information. Admin has an important role in the management of this system.
+
+For the user side, a user can view the particular students details who are enrolled in different classes. This project is a simple project that makes a convenient way for any educational organization to keep the records of their students.
+
+About System
+Student Enrollment is in PHP, javascript, and CSS. Talking about the features of this system, it contains the Admin and user sections. From here, the admin can view all the records of the enrolled students. Also, you can edit or delete any details as per the requirements.
+
+The design of this project is pretty simple so that the user won’t find any difficulties while working on it. This Student Enrollment in PHP helps in easy management of various records of the students.
+
+How To Run The Project?
+To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Student Enrollment is in PHP with source code is free to download, Use for educational purposes only!
+
+After Starting Apache and MySQL in XAMPP, follow the following steps.
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on the databases tab
+6th Step: Create a database naming “student” and then click on the import tab
+7th Step: Click on browse file and select “student.sql” file
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/student-php-enroolment/”
+

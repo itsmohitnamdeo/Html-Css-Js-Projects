@@ -1,0 +1,18 @@
+Online Bank is a web-based banking system with all essential features and security accompanied by a beautiful and simple website. The website is design in accordance with google material design and responsive web design guidelines. To ensure a seamless experience between devices. This system is written in PHP and MYSQL.
+
+A fictional name of “Dolphin Bank” has been use only for representative purposes. Eventually, this project should not be modify in any way and use anywhere else without my permission. If you use this project for phishing purposes. Finally, after modifying the source code / or by any other means, remember that the original project has nothing to do with phishing. Any other malicious purpose.
+Any loss of data or unauthoriz access which happen. Because of such phishing kits would not be my responsibility as that is not my original code. However, Strict legal action would be taken if someone is found modifying it and using it for any unethical purpose. All the passwords and the usernames of both the admin and the customer can be found in the database i.e. in the file net_banking.sql. Username of admin is “admin” & password is “password123”.
+
+The technologies used in this project are:
+HTML: Page layout and design
+CSS: Design
+JS: Frontend
+PHP: Backend
+Bootstrap
+Java Script
+Supported Operating Systems:
+You can run this project in the following operating systems:
+
+Windows:
+MAC:
+Linux:

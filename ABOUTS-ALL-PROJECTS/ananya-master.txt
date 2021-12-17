@@ -1,0 +1,17 @@
+
+“Cosmetic and Imitation Jewelry System” is the online system used for online shopping or information provider of the cosmetic and the jewelry. Cosmetic users are increasing in nature so customers are being more interested in it. They want to know the product very much so that they can use it properly. This system will help users to get information od the new product that is found in the market. Best selling products and also new arrival of cosmetics found in the market.
+
+Admin has the authority to access all the activities. They can add the products, advertise the products, delete the product, etc. Eventually, they can add features or delete the features in the system. ThisCosmetic and Imitation Jewelry System are written in PHP and MYSQL. For the database connection first, you need to create the database named ananya.sql in the localhost/phpmyadmin/ and then you can import the database which is in ananya .sql  file.
+The technologies used in this project are:
+HTML: Page layout and design
+CSS: Design
+JS: Fontend
+PHP: Backend
+Bootstrap
+Java Script
+Supported Operating Systems for Cosmetic and Imitation Jewelry System:
+You can run this project in the following operating systems:
+
+Windows:
+MAC:
+Linux:

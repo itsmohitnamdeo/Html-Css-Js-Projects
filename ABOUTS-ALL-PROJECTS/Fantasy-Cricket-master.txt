@@ -1,0 +1,17 @@
+“Fantasy-Cricket” is an online website where the user can create their own team for the cricket to play. Cricket is the increasing their fans day by day. Nowadays lots of online cricket games are found on the internet. This system will make the user select the team and also gets the points in winning teams. The system is written in PHP and MYSQL.
+
+This system will make users easy to fix the team or manage the team. Admin will select the country which will play the match. continuously, select the day for the match. Firstly, users need to register to the system and then they can log in to the system by entering the username and password. Users will select the team for them and submit it. They can even change the details of their own. Such as username, password, etc.
+
+The technologies used in this project are:
+HTML: Page layout and design
+CSS: Design
+JS: Frontend
+PHP: Backend
+Bootstrap
+Java Script
+Supported Operating Systems:
+You can run this project in the following operating systems:
+
+Windows:
+MAC:
+Linux:

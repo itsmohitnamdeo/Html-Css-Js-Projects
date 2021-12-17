@@ -1,0 +1,27 @@
+About Project
+Simple Photo Gallery is developed using PHP, CSS, Bootstrap, and JavaScript. Talking about the project, it contains a user side where a user can post photos easily. This project contains limited features which is only related to a photo gallery. In this project, the user has to perform all the main functions from the user side.
+
+About System
+Talking about the features of the Simple Photo Gallery, the user has can easily add photos. For this, the user has to browse his/her photos and provide a suitable photo caption. All the photos are displayed in a responsive grid style. The user can also click to a certain image file to view in large size and check the caption.
+
+Design of this project is pretty simple so that the user won’t find any difficulties while working on it. Simple Photo Gallery in PHP helps the user in posting photos easily. To run this project you must have installed virtual server i.e XAMPP on your PC (for Windows). Simple Photo Gallery in PHP with source code is free to download, Use for educational purposes only! For the project demo, have a look at the video below.
+project demo
+How To Run??
+
+After Starting Apache and MySQL in XAMPP, follow the following steps
+
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+
+Now Connecting Database
+
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on the databases tab
+6th Step: Create a database naming “db_instalike” and then click on the import tab
+7th Step: Click on browse file and select “db_instalike.sql” file which is inside “DATABASE” folder
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/instalike/”

@@ -1,0 +1,28 @@
+-To download Internship Management System In PHP project for free(Scroll Down)
+
+The Internship Management System In PHP is a simple mini project for managing the interns. The project contains the admin side and the user side. The admin can view all the users and employers. They can update the employer details, but cannot delete their accounts.
+
+For the user side, a user can either be a student(internship finder) or employer(internship provider). A student user can register & login their account to search for an internship and can apply for it. While an employer can register & login their account to provide vacancy for an internship. This project is a simple project that makes a convenient way for any internship finder/provider to provide their details.
+
+About System
+This Internship Management System is in PHP and CSS. Talking about the features of the system, it contains the Admin and user sections. From here, the admin can view all the users and employers. The design of this project is pretty simple so that the user won’t find any difficulties while working on it.
+
+How To Run The Project?
+To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Internship Management System is in PHP with source code is free to download, Use for educational purposes only!
+After Starting Apache and MySQL in XAMPP, follow the following steps.
+
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on the databases tab
+6th Step: Create a database naming “internship” and then click on the import tab
+7th Step: Click on browse file and select “internship.sql” file which is inside the “internship” folder
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/internship/”
+
+NOTE: For login details, check from the database record

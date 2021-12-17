@@ -1,0 +1,5 @@
+Photo editing application is a simple PHP and JavaScript project. This project helps in drawing paintings. Also, this project requires XAMPP to run. You can draw with the help of the brush tool available in the project. You just can draw the stuff but unfortunately cannot save this. This is a runtime program,
+
+About Paint program
+As mentioned already this is a mini project. This project does not have all the features of a drawing application. But this project will develop your coding skills. Talking about the project, it has a main class file which you do not require to set in your project. When you run the project, you can pick the different colors from the pallet. Also, you can select the brush size. Then you can draw your arts. With the help of this project, you will surely get the idea of OOP and how to use them in projects.
+This project allows you to do more than you think. You can imagine this project as a mini Photoshop application. When you start the application or run it, you can create your own art board. Not only this you can apply filters to your photos also.

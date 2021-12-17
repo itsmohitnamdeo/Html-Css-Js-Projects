@@ -1,0 +1,33 @@
+Project: Online Quiz System in PHP with source code
+
+-To download Online Quiz System In PHP project for free(Scroll Down)
+
+The Online Quiz System In PHP is a simple project for taking and giving the examination online. The project contains an admin side and the user side. The admin can view and manage the users, their rankings, and manage the quiz questions. The purpose of taking the online exam is to save students time in examinations. And this online method needs less manpower to execute the examination.
+
+The users are the students who take part in the exam. A user has to login to enter the quiz competition. If he/she has not registered, they can register first and then login. This project is a very simple project that makes a convenient way for any organization to check the performance of the student that they give in an examination.
+
+About System
+This Online Quiz System is in PHP, CSS, JavaScript, and bootstrap. Talking about the features of the Online Quiz system, it just contains both the admin section and the user section. The user can log in to give the exam, while the admin can view all users, their rankings and manage questions. The design of this project is pretty simple so that the user won’t find any difficulties while working on it.
+
+How To Run The Project?
+To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Online Quiz System in PHP with source code is free to download, Use for educational purposes only!
+
+After Starting Apache and MySQL in XAMPP, follow the following steps.
+
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on the databases tab
+6th Step: Create a database naming “exam” and then click on the import tab
+7th Step: Click on browse file and select “exam.sql” file which is inside the “Online-Quiz” folder
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/ Online-Quiz /”
+
+Note: For admin panel, go to URL ” http://localhost/ Online-Quiz/admin.php”
+
+For the project demo, you can have a look at the video below:

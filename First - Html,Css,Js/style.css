@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  animation: change 10s infinite;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+@keyframes change{
+  0%{background-color: #ff0000 ;}
+  10%{background-color: #00ffff ;}
+  20%{background-color: #ffff00 ;}
+  35%{background-color: #4da6ff ;}
+  40%{background-color: #73e600;}
+  500%{background-color: #ff0066;}
+  60%{background-color: #ff9118;}
+  70%{background-color:#990000;}
+  80%{background-color: #996633;}
+  90%{background-color: #ff471a;}
+  100%{background-color: #00cc66;}
+}
+
+h1{
+  color: rgb(0, 0, 0);
+}
+
+.wave {
+  animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
+  animation-duration: 2.5s;        /* Change to speed up or slow down */
+  animation-iteration-count: infinite;  /* Never stop waving :) */
+  transform-origin: 70% 70%;       /* Pivot around the bottom-left palm */
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
+   20% { transform: rotate(-8.0deg) }
+   30% { transform: rotate(14.0deg) }
+   40% { transform: rotate(-4.0deg) }
+   50% { transform: rotate(10.0deg) }
+   60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
+  100% { transform: rotate( 0.0deg) }
+}
+
+
+
+
+/* For demonstration purposes only: */
+body { font-size: 3.5em }
+h1 { font-size: 0.5em }

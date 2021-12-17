@@ -1,0 +1,11 @@
+Features:
+
+Admin Panel
+Add Post
+Add and Delete Category
+Manage Blogs
+Just like other Blogging sites, this project offers users to read blogs of various categories. From the admin panel, he/she can add categories, manage posts and delete categories. The layout is pretty similar to WordPress blogging theme. Here, the site administrator can add a number of posts according to the categories they want and the blogs can also be viewed by selecting a certain category. The design of this project is simple and the user won’t find it difficult to understand, use and navigate.
+
+How To Run?
+You’ll need XAMP Server or WAMP Server. Put the file inside “c:/wamp/www/” or “c:/xampp/htdocs/”. Go To “localhost/phpmyadmin” in any browser and create Database (name according to SQL file).In That Database, Import the SQL file and finally go to URL: “http://localhost/file_name/phpfilename”
+Don’t Forget To create a database and import SQL file to run.

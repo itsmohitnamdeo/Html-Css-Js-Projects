@@ -1,0 +1,19 @@
+“Online Note Sharing” is the project used for sharing notes using website. Notes that the user wants for the particular subject can be found in the website.This project is written in PHP and MYSQL.
+
+Firstly, the user need to sign up and then, they can log in to the system. They will get their own dashboard where they can see the numbers of notes for the particular faculty. After, that they can download it and read the notes. They can even upload the notes if they have some . They can even edit the profile like name,profile,change password. Eventually, in admin side they can see all the users who are using it. Admin has the authority to delete the users too. If the user had uploaded the notes then admin check the note and is it is usable then they will approved it and all the other user will get the note according to the faculty.
+Admin Login Details for username: root  password: adminroot. For the database connection first you need create the database named notes.sql in the localhost/phpmyadmin/ and then you can import the database which is found inside the db folder notes.sql file .
+
+The technologies used in this project are:
+HTML: Page layout and design
+CSS: Design
+JS: Fontend
+PHP: Backend
+Bootstrap
+Java Script
+Ajax
+Supported Operating Systems:
+You can run this project in the following operating systems:
+
+Windows:
+MAC:
+Linux:
